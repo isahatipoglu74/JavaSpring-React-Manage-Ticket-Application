@@ -1,7 +1,30 @@
 # Manage_Ticket
 Manage_Ticket
 
+<p> 
+Bu uygulamada Spring Rest Servisleri ve önyüzde React.js  kullanılarak çalışan , teknisyen ve admin arayüzleri ile çağrı kayıt sistemi yapılmıştır.
+</p>
 
+
+# Yazılım Sürümleri:
+- Java 8
+- Spring 2.17.3
+- Mysql 8
+    
+# Ugulama Özellikleri:
+- [x] Kullanıcı Giriş
+- [x] Kullanıcı Oluşturma
+- [x] Destek Kayıt Bilgi Ekranı
+- [x] Destek Kayıt Bilgisi Güncelleme
+- [x] Destek Kayıt Listeleme
+- [x] Destek Kayıt Silme
+
+
+
+## Ugulama Note:
+```
+Bu uygulamada Spring Rest Servisleri ve önyüzde React.js  kullanılarak çalışan , teknisyen ve admin arayüzleri ile çağrı kayıt sistemi yapılmıştır.
+```
 
 
 # Project Display Image
